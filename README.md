@@ -1,10 +1,10 @@
-# PLC-Based Sprinkler Control System (KOM3772 Experiment)
+# PLC-Based Sprinkler Control System
 
 ## Overview
 
 This project implements a control system for a garden sprinkler using a Programmable Logic Controller (PLC). The system runs three distinct, sequential irrigation programs with adjustable repetition counts. It features a custom Function Block (`My_sprinkler`) to handle the timed energizing and stopping cycles for each program phase.
 
-This project was developed as part of the Industrial Automation Systems Lab I (KOM3772) coursework at the Department of Control and Automation Engineering, Yıldız Technical University.
+This project was developed as part of the Industrial Automation Systems Lab I coursework at the Department of Control and Automation Engineering, Yıldız Technical University.
 
 ## System Functionality
 
